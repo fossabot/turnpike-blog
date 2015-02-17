@@ -1,0 +1,8 @@
+{
+  "name": "turnpike-blog",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "turnpike": "0.3.10"
+  }
+}
